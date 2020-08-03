@@ -122,5 +122,12 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		}
+		
+		{
+			"name": "mobilefirmware",
+			"description": "CDN for various firmware sites",
+			"domain_files": ["firmwaresites.txt"]
+		}
+		
 	]
 }
